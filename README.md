@@ -1,13 +1,13 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/fergusstrange/embedded-postgres/master/gopher.png" width="150">
+    <img src="https://raw.githubusercontent.com/felipecsl/embedded-postgres/master/gopher.png" width="150">
 </p>
 
 <p align="center">
-<a href="https://godoc.org/github.com/fergusstrange/embedded-postgres"><img src="https://godoc.org/github.com/fergusstrange/embedded-postgres?status.svg" alt="Godoc" /></a>
-<a href='https://coveralls.io/github/fergusstrange/embedded-postgres?branch=master'><img src='https://coveralls.io/repos/github/fergusstrange/embedded-postgres/badge.svg?branch=master' alt='Coverage Status' /></a>
-<a href="https://github.com/fergusstrange/embedded-postgres/actions"><img src="https://github.com/fergusstrange/embedded-postgres/workflows/Embedded%20Postgres/badge.svg" alt="Build Status" /></a>
-<a href="https://app.circleci.com/pipelines/github/fergusstrange/embedded-postgres"><img src="https://circleci.com/gh/fergusstrange/embedded-postgres.svg?style=shield" alt="Build Status" /></a>
-<a href="https://goreportcard.com/report/github.com/fergusstrange/embedded-postgres"><img src="https://goreportcard.com/badge/github.com/fergusstrange/embedded-postgres" alt="Go Report Card" /></a>
+<a href="https://godoc.org/github.com/felipecsl/embedded-postgres"><img src="https://godoc.org/github.com/felipecsl/embedded-postgres?status.svg" alt="Godoc" /></a>
+<a href='https://coveralls.io/github/felipecsl/embedded-postgres?branch=master'><img src='https://coveralls.io/repos/github/felipecsl/embedded-postgres/badge.svg?branch=master' alt='Coverage Status' /></a>
+<a href="https://github.com/felipecsl/embedded-postgres/actions"><img src="https://github.com/felipecsl/embedded-postgres/workflows/Embedded%20Postgres/badge.svg" alt="Build Status" /></a>
+<a href="https://app.circleci.com/pipelines/github/felipecsl/embedded-postgres"><img src="https://circleci.com/gh/felipecsl/embedded-postgres.svg?style=shield" alt="Build Status" /></a>
+<a href="https://goreportcard.com/report/github.com/felipecsl/embedded-postgres"><img src="https://goreportcard.com/badge/github.com/felipecsl/embedded-postgres" alt="Go Report Card" /></a>
 </p>
 
 # embedded-postgres
@@ -29,7 +29,7 @@ embedded-postgres uses Go modules and as such can be referenced by release versi
 following to add the latest release to your project.
 
 ```bash
-go get -u github.com/fergusstrange/embedded-postgres
+go get -u github.com/felipecsl/embedded-postgres
 ``` 
 
 ## How to use
@@ -102,7 +102,7 @@ caller will block.
 ## Examples
 
 There are a number of realistic representations of how to use this library
-in [examples](https://github.com/fergusstrange/embedded-postgres/tree/master/examples).
+in [examples](https://github.com/felipecsl/embedded-postgres/tree/master/examples).
 
 ## Credits
 
@@ -113,4 +113,3 @@ in [examples](https://github.com/fergusstrange/embedded-postgres/tree/master/exa
 ## Contributing
 
 View the [contributing guide](CONTRIBUTING.md).
-

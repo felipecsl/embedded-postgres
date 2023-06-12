@@ -7,10 +7,9 @@ import (
 	"reflect"
 	"testing"
 
-	embeddedpostgres "github.com/fergusstrange/embedded-postgres"
+	embeddedpostgres "github.com/felipecsl/embedded-postgres"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
-	"github.com/pressly/goose/v3"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapio"
 )
